@@ -43,4 +43,5 @@ int main()
  cout << binarySearch(arr, n, key) << endl;
 
  return 0;
+ //TIME COMPLEXITY- O(LOG n) base 2.
 }
